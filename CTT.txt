@@ -1,0 +1,8 @@
+irm christitus.com/win | iex
+
+latest 
+
+irm "https://christitus.com/win" | iex
+
+wr1200
+admin_ans
